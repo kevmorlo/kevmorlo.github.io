@@ -116,7 +116,7 @@ var l_musicPlaylist = [
 	{ogg: "GTA San Andreas Theme Song Full ! !.ogg", name: "GTA San Andreas - Thème principal"},
 	{ogg: "GTA V - Welcome to Los Santos Soundtrack - Intro_Theme song.ogg", name: "GTA V - Welcome to Los Santos"},
 	{ogg: "Hero's Emergence.ogg", name: "Epic Score - Hero's Emergence"},
-	{ogg: "End of the World - Epic Score (Tobias Marberger & Gabriel Shadid).ogg", name: "Epic Score - End of the world"}
+	{ogg: "End_of_the_World_-_Epic_Score_Tobias_Marberger__Gabriel_Shadid.ogg", name: "Epic Score - End of the world"}
 ];
 
 // Random music order?
@@ -133,9 +133,12 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Bienvenue sur Volca City RP",
+	"Bienvenue sur Volca City RP !",
 	"Chargement en cours . . . Profitez en pour prendre un café !",
 	"N'hésitez pas à rejoindre notre Discord !",
+	"Si vous avez un problème, notre discord ainsi que notre forum sont là !",
+	"N'oubliez pas de lire les règles du serveur !",
+	"N'hésitez pas à faire un tour sur notre boutique !"
 ];
 
 // Random message order?
